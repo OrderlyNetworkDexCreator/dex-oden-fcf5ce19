@@ -1,7 +1,7 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
   "VITE_ORDERLY_BROKER_ID": "oden1100",
-  "VITE_ORDERLY_BROKER_NAME": "Oden",
+  "VITE_ORDERLY_BROKER_NAME": "odenbook",
   "VITE_BROKER_EOA_ADDRESS": "0x655bb8988e328f7e41cb7c7c239ce0d704f598ee",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
@@ -15,7 +15,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "Oden",
+  "VITE_APP_NAME": "odenbook",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "false",
   "VITE_HAS_SECONDARY_LOGO": "false",
